@@ -45,7 +45,7 @@ app.MapGet("/health", () =>
     return Results.Ok(new
     {
         status = "OK",
-        version = "1.1"
+        version = "1.2"
     });
 });
 

@@ -1,0 +1,12 @@
+C:\temp\dockertest\MiaApi\bin\Release\net8.0\publish\MiaApi.exe
+C:\temp\dockertest\MiaApi\bin\Release\net8.0\publish\appsettings.Development.json
+C:\temp\dockertest\MiaApi\bin\Release\net8.0\publish\appsettings.json
+C:\temp\dockertest\MiaApi\bin\Release\net8.0\publish\MiaApi.dll
+C:\temp\dockertest\MiaApi\bin\Release\net8.0\publish\MiaApi.deps.json
+C:\temp\dockertest\MiaApi\bin\Release\net8.0\publish\MiaApi.runtimeconfig.json
+C:\temp\dockertest\MiaApi\bin\Release\net8.0\publish\MiaApi.pdb
+C:\temp\dockertest\MiaApi\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\temp\dockertest\MiaApi\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\temp\dockertest\MiaApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\temp\dockertest\MiaApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\temp\dockertest\MiaApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
